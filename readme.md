@@ -14,6 +14,8 @@ Anukriti Singh - 119288306, Aman Sharma - 119085431
 ![Result3](/output/result3.png)
 ![Result4](/output/result4.png)
 
+Video of the results can be seen in this [link](https://drive.google.com/drive/folders/1u_6RDE77hPDQek_lgo6QV9mMxHwl5m5m?usp=share_link) 
+
 ## Installation
 ### 1. Requirements and Prerequisites
 -  Ubuntu 18.04
